@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Minh Quan Nguyen</h1>
-<h3 align="center">As a highly motivated freshman seeking an IT internship, exciting to learn and apply skills in a real-world setting. With a passion for problemsolving and a collaborative mindset, I am eager to contribute to a dynamic team and expand knowledge in areas such as data engineering and backend developing</h3>
+<h3 align="center">As a highly motivated freshman seeking an IT internship, exciting to learn and apply skills in a real-world setting. With a passion for problem solving and a collaborative mindset, I am eager to contribute to a dynamic team and expand knowledge in areas such as data engineering and backend developing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhquan050903&label=Profile%20views&color=0e75b6&style=flat" alt="minhquan050903" /> </p>
 
