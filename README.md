@@ -16,6 +16,7 @@
 <a href="https://linkedin.com/in/linkedin.com/in/tran-minh-quan-nguyen-3911b9220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tran-minh-quan-nguyen-3911b9220" height="30" width="40" /></a>
 <a href="https://instagram.com/tysonikez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tysonikez" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/minhquan050903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="minhquan050903" height="30" width="40" /></a>
+<a href="https://kaggle.com/tysonike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tysonike" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
