@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently study **Computer Programming at Seneca College**
+- 🌱 I graduated **Computer Programming at Seneca College**
 
-- 📫 How to reach me **quanmtnguyen@gmail.com**
+- 📫 Reach me at **quanmtnguyen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
